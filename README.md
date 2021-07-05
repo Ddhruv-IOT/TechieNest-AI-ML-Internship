@@ -1,2 +1,5 @@
 # 8thJune_B1_AI
-training data
+Assignments of day - 16.
+<br>
+Pandas exercise and numpy exercise.
+<br>
