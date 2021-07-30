@@ -1,0 +1,9 @@
+open CV python 
+Face recognition 
+Pyttsx3 
+Speech recognition 
+Pil 
+Dil 
+Dlib 
+Clib 
+Cython 
